@@ -10,8 +10,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting inno
 
 - **[ToS-Flagger-Extension 🚀](https://github.com/Koppang-Dev/ToS-Flagger-Extension)**: A Chrome extension designed to summarize and identify red flags in companies' Terms of Service (ToS). This extension aims to simplify the often complex and lengthy ToS documents, providing users with clear summaries and highlighting potential concerns. Currently focusing on enhancing the summarization algorithm and improving the user interface for a better user experience.
 
-Currently focusing on enhancing the summarization algorithm and improving user interface for better user experience.
----
+🛠️ Technologies & Tools
+Languages: Swift, Python, JavaScript, HTML, SQL, PHP
+Frameworks: Next.js, React, Express.js, Firebase
+Databases: MongoDB, MySQL
+APIs: balldontlie.io, Instagram API
+Tools: Xcode, CocoaPods, AVFoundation, Git
 
 ### 📚 **Learning Journey**
 - **Data Structures & Algorithms**: Mastering advanced techniques for efficient coding.
