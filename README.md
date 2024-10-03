@@ -45,17 +45,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting inno
 ---
 
 ### 📫 **Connect With Me**
-- [LinkedIn](your-linkedin-url) | [Twitter](your-twitter-url) | [Personal Website](your-website-url)
-
----
+- [LinkedIn](www.linkedin.com/in/riley-koppang)
 
 ### ⚡ **Fun Fact**
-When I'm not coding, you can find me solving **LeetCode** challenges and honing my skills with sliding window techniques! 🎮
-
----
-
-### 📊 **GitHub Stats**
-![Riley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koppang-Dev&show_icons=true&theme=radical)
+When I'm not coding, you can find me solving **LeetCode** challenges and honing my skills 🎮
+- [Leetcode](https://leetcode.com/u/KoppangDev/)
 
 ---
 
@@ -63,10 +57,3 @@ When I'm not coding, you can find me solving **LeetCode** challenges and honing 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koppang-Dev&layout=compact&theme=radical)
 
 ---
-
-### 🌈 **Favorite Quotes**
-> "The only way to do great work is to love what you do." – Steve Jobs
-
----
-
-Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out. Let's create something amazing together! 😊
