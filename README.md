@@ -30,19 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting inno
 - **Data Structures & Algorithms**: Mastering advanced techniques for efficient coding.
 - **Design Patterns**: Understanding best practices in software development.
 
----
-
-### 🤝 **Collaboration Opportunities**
-- Open to working on **web development** and **machine learning** projects.
-- Looking for contributions to improve **Chrome extensions**.
-
----
-
-### ❓ **Ask Me About**
-- My experience with **Python** and **JavaScript**.
-- Tips on using **Firebase** and other cloud technologies.
-
----
 
 ### 📫 **Connect With Me**
 - [LinkedIn](www.linkedin.com/in/riley-koppang)
@@ -52,7 +39,6 @@ When I'm not coding, you can find me solving **LeetCode** challenges and honing 
 - [Leetcode](https://leetcode.com/u/KoppangDev/)
 
 ---
-
 ### 🛠️ **Most Used Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koppang-Dev&layout=compact&theme=radical)
 
