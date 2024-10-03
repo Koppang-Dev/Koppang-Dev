@@ -11,11 +11,20 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting inno
 - **[ToS-Flagger-Extension 🚀](https://github.com/Koppang-Dev/ToS-Flagger-Extension)**: A Chrome extension designed to summarize and identify red flags in companies' Terms of Service (ToS). This extension aims to simplify the often complex and lengthy ToS documents, providing users with clear summaries and highlighting potential concerns. Currently focusing on enhancing the summarization algorithm and improving the user interface for a better user experience.
 
 🛠️ Technologies & Tools
-Languages: Swift, Python, JavaScript, HTML, SQL, PHP
-Frameworks: Next.js, React, Express.js, Firebase
-Databases: MongoDB, MySQL
-APIs: balldontlie.io, Instagram API
-Tools: Xcode, CocoaPods, AVFoundation, Git
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-4BC51B?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
 ### 📚 **Learning Journey**
 - **Data Structures & Algorithms**: Mastering advanced techniques for efficient coding.
