@@ -4,13 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting inno
 ---
 
 ### 🔧 **Currently Working On**
-- **[TrailBlazer](https://github.com/Koppang-Dev/TrailBlazeWebApp)**: 🌟 TrailBlazer: A dynamic trip planner built with Next.js and React for the frontend, and Express.js for the backend. This innovative application leverages a Language Model (LLM) to provide personalized travel recommendations, helping users plan their trips effortlessly.
-
-- **[TrailBlazer 🌟 ](https://github.com/Koppang-Dev/TrailBlazeWebApp)**: A dynamic trip planner built with Next.js and React for the frontend, and Express.js for the backend. This innovative application leverages a Language Model (LLM) to provide personalized travel recommendations, making trip planning effortless.
-
-Currently, I’m focusing on implementing Firebase authentication for secure user login, while also connecting to MongoDB for efficient data storage and management.
-
-Currently, I’m focused on implementing user authentication using Firebase while ensuring seamless integration with MongoDB for efficient data management. With TrailBlazer, users can receive tailored suggestions for destinations, activities, and itineraries, making their travel planning experience more enjoyable and efficient.
+- **[TrailBlazer 🌟 ](https://github.com/Koppang-Dev/TrailBlazeWebApp)**: A dynamic trip planner built with Next.js and React for the frontend, and Express.js for the backend. This innovative application leverages a Language Model (LLM) to provide personalized travel recommendations, making trip planning effortless. Currently, I’m focused on implementing user authentication using Firebase while ensuring seamless integration with MongoDB for efficient data management. With TrailBlazer, users can receive tailored suggestions for destinations, activities, and itineraries, making their travel planning experience more enjoyable and efficient.
 ---
 
 ### 📚 **Learning Journey**
