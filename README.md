@@ -4,12 +4,22 @@ Welcome to my GitHub profile! I'm a passionate developer who loves crafting inno
 ---
 
 ### 🔧 **Currently Working On**
+- **[Learn With Franny 📚](https://github.com/Koppang-Dev/LearnWithFranny)**: An AI-powered note-taking and learning platform designed to enhance studying efficiency. Built with **Next.js** for the frontend and **Spring Boot** for the backend, this innovative app leverages **Gemini AI** to transform files into structured note cards, making learning more interactive and effective.  
+
+  Currently, I’m focused on expanding **AI-generated quizzes** and **smart progress tracking**, allowing users to measure their learning consistency with **calendar-based tracking** and **interactive graphs**, similar to GitHub’s contribution tracking. The platform ensures secure authentication through **JWT tokens** and efficiently manages user data using **MySQL**.  
+
+  With **Learn With Franny**, users can:  
+  - Upload documents and generate **AI-powered note cards** automatically.  
+  - Take **personalized quizzes** created by AI to reinforce their knowledge.  
+  - Track study habits through **graphs and calendars** visualizing progress.  
+  - Securely store and access notes with **MongoDB** and **JWT authentication**.  
+
+  As I refine **AI-driven insights** and enhance the **quiz generation** process, the goal is to create a **seamless and engaging learning experience** for students and lifelong learners alike.  
 - **[TrailBlazer 🌟 ](https://github.com/Koppang-Dev/TrailBlazeWebApp)**: A dynamic trip planner built with **Next.js** and **React** for the frontend, and **Express.js** for the backend. This innovative application leverages a **Language Model (LLM)** to provide personalized travel recommendations, making trip planning effortless. Currently, I’m focused on implementing user authentication using **Firebase** while ensuring seamless integration with **MongoDB** for efficient data management. With TrailBlazer, users can receive tailored suggestions for destinations, activities, and itineraries, making their travel planning experience more enjoyable and efficient.
 
 - **[NBA Stats Plus App 🏀](https://github.com/Koppang-Dev/NBAStatsPlus)**:A comprehensive application that provides NBA information and entertainment, featuring user authentication through Google **Firebase** for easy login and signup with email and username. Users can view upcoming game schedules and real-time scores by utilizing the balldontlie.io API for dynamic updates. The app also displays conference and league standings, with data scraped from FoxSports and stored in a **MySQL** database, presented using **PHP**. Additionally, users can enjoy curated NBA videos gathered from Instagram, powered by a **Python** script and AVFoundation for seamless playback. Built using **Swift** for the **iOS interface**, along with **Python, HTML, SQL, and PHP for backend functionalities**, the NBA Stats Plus App follows the **MVVM architecture** pattern to ensure a clean separation of concerns. Watch a demonstration of the app's features in action on my YouTube channel (link to be added).
 
-- **[ToS-Flagger-Extension 🚀](https://github.com/Koppang-Dev/ToS-Flagger-Extension)**: A Chrome extension designed to summarize and identify red flags in companies' Terms of Service (ToS). This extension aims to simplify the often complex and lengthy ToS documents, providing users with clear summaries and highlighting potential concerns. Currently focusing on enhancing the summarization algorithm and improving the user interface for a better user experience.
-
+  
 **🛠️ Technologies & Tools**
 <p>
   <img src="https://img.shields.io/badge/Swift-4BC51B?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
